@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">AndroidAssignment</string>
+
+    <!-- Login Page -->
+    
+    <string name="signin_lable">SIGN IN WITH</string>
+    <!-- Results page  -->
+     <string name="results_lable">PRODUCT WISE RESULTS</string>
+     <string name="results_lable_it">IT</string>
+     <string name="results_txt_mtd">MTD</string>
+     <string name="results_txt_ytd">YTD</string>
+     
+    <!--Services  --> 
+      <string name="services_txt_title">SERVICES</string>
+      <string name="services_txt_rate_service">Rate the Service</string>
+      
+      <!-- Rate a Product  -->
+      
+       <string name="rate_txt_title">RATE A PRODUCT</string>
+      
+</resources>
